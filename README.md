@@ -1,5 +1,7 @@
 # TurtleGraphics
+A simple Java desktop app inspired by the classic Etch-a-Sketch. You control a little turtle on a canvas—when its pen is down, it draws as it moves!
 
+Built with Java Swing and structured using the MVC (Model-View-Controller) pattern.
 ##  What You Can Do
 
 - Move the turtle (North, South, East, West)
