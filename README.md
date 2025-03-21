@@ -16,5 +16,5 @@ Built with Java Swing and structured using the MVC (Model-View-Controller) patte
 ## How To Run
 - Open terminal
 - cd to src
-- Compile - javac '*'/'*'.java
+- Compile - javac \*/\*'.java
 - Run - java main.Main
